@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_3;
 public class Pago {
     protected double cantidad;
 

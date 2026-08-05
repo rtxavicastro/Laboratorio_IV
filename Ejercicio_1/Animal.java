@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_1;
 public abstract class Animal {
     protected String nombre;
 

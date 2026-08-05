@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_5;
 import java.util.Scanner;
 
 public class validacionEdad {

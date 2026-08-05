@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_6;
 import java.util.Scanner;
 
 public class divisionSegura {

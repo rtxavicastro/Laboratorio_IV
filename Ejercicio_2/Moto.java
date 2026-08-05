@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_2;
 public class Moto extends Vehiculo{
     public Moto(String marca, int year){
         super(marca, year);

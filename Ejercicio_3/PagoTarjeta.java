@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_3;
 public class PagoTarjeta extends Pago {
     public PagoTarjeta(double cantidad){
         super(cantidad);

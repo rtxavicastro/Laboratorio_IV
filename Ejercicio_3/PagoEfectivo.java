@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_3;
 public class PagoEfectivo extends Pago {
     public PagoEfectivo(double cantidad){
         super(cantidad);

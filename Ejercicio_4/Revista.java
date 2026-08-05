@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_4;
 public class Revista extends Material {
     private int year;
 

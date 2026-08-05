@@ -1,3 +1,4 @@
+package Laboratorio_IV.Ejercicio_2;
 public class Vehiculo {
     protected String marca;
     protected int year;
