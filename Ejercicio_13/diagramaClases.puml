@@ -1,0 +1,20 @@
+@startuml diagramaClases
+
+class Persona{
+    -String nombre
+    -int edad
+}
+
+class Estudiante{
+    -double notas
+}
+
+class Curso{
+    -String nombre
+}
+
+Estudiante <|-- Persona
+
+Curso *-- Estudiante
+
+@enduml
