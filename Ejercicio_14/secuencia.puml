@@ -1,0 +1,13 @@
+@startuml secuencia
+autonumber
+
+actor Usuario
+participant Sistema
+database "Base de datos" as BD
+
+Usuario -> Sistema: Buscar estudiante por ID
+Sistema -> BD: Consulta datos del estudiante
+BD --> Sistema: Devuelve la informacion del estudiante
+Sistema --> Usuario: Se muestra la informacion del estudiante en la pantalla
+
+@enduml
